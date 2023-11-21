@@ -1,8 +1,9 @@
+# Readme generator
 
-# ReadMe
 ![GitHub license](https://img.shields.io/github/license/MIT)
 
 ## Table of Contents
+
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -12,22 +13,29 @@
 - [License](#license)
 
 ## Description
-Generates readme
+
+generates readme for project
 
 ## Installation
-Read
+
+npm install
 
 ## Usage
-more reading
+
+answer the prompts accurately for best construction of readme
 
 ## Contributing
-read it
+
+No copying other people's work
 
 ## Tests
-read thourougly 
+
+index.js
 
 ## Questions
-If you have any questions about the repo, open an issue or contact me directly at dafish. You can find more of my work at [dannyfish](https://github.com/dannyfish/).
+
+If you have any questions about the repo, open an issue or contact me directly at danzfischler@gmail.com. You can find more of my work at [DannyFischler](https://github.com/DannyFischler/).
 
 ## License
+
 This project is licensed under the MIT license.
